@@ -1,29 +1,29 @@
 {
-  "inbounds": [
-    {
-      "port": 8080,
-      "protocol": "vmess",
-      "settings": {
-        "clients": [
-          {
-            "id": "aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1",
-            "level": 0
-          }
-        ],
-        "decryption": "none"
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/topnet"
-        }
-      }
-    }
-  ],
-  "outbounds": [
-    {
-      "protocol": "freedom",
-      "settings": {}
-    }
-  ]
+"inbounds": [
+{
+"port": 8080,
+"protocol": "vless",
+"settings": {
+"clients": [
+{
+"id": "wwwwwww2-oooo-3ooo-aaaa-ooooooooooo2",
+"level": 0
+}
+],
+"decryption": "none"
+},
+"streamSettings": {
+"network": "ws",
+"wsSettings": {
+"path": "/Telegram/@w2ilwe/@@mujta1n/@Legend_100000"
+}
+}
+}
+],
+"outbounds": [
+{
+"protocol": "freedom",
+"settings": {}
+}
+]
 }
