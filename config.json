@@ -6,7 +6,7 @@
 "settings": {
 "clients": [
 {
-"id": "aaaaaaa3-eeee-3ccc-accc-eeeeeeeeeee3",
+"id": "33d55e97-26ab-4e59-9f37-7a944044baaa",
 "level": 0
 }
 ],
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "@w2ilwe"
+"path": "/Telegram/@w2ilwe/@x_3_o_x"
 }
 }
 }
